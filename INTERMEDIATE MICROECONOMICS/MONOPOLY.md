@@ -37,3 +37,7 @@ Related : [[monopoly, product quality and durability]]
 
 #### Time inconsistency and heterogeneous demand 
 Related : [[Time inconsistency and heterogeneous demand]]
+
+# Price Discrimination 
+
+Related : [[Price Discrimination]]

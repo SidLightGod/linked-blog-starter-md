@@ -1,3 +1,4 @@
 1. A histogram of residuals is a simple graphical device used to learn something about the shape of the PDF, the probability density function of a random variable 
 2. On the horizontal axis we divide the values of the variables of interest into suitable intervals and in each interval class we erect rectangles equal in height to the number of observations in that class interval. 
 3. if we mentally superimpose the bell shaped normal distribution curve on this histogram, we can get an idea about the nature of the probability distribution of the variable of interest. 
+4. it is always a good practice to plot the histogram of the residuals to get some rough idea about the likely shape of the underlying distribution 
