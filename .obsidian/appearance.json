@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Dracula for Obsidian",
+  "accentColor": "#c8c6ec",
+  "enabledCssSnippets": [
+    "New Text Document"
+  ],
+  "theme": "obsidian"
+}

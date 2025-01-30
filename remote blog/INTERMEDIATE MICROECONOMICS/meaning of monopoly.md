@@ -1,0 +1,1 @@
+- a monopoly is a single supplier to the market. This firm may choose to produce at any point in the market demand curve. 

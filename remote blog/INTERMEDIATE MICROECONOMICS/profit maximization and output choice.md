@@ -1,0 +1,4 @@
+- to maximize the profit the monopoly firm will choose an output level for which the marginal cost is equal to the marginal revenue. 
+- this is because the monopoly unlike the perfect competition faces a negatively sloped demand curve, marginal revenue will be less than its market price. 
+- to sell an additional unit the monopoly must decrease the price on all units to be sold if it is to generate that extra demand necessary to absorb this marginal unit. 
+- ![[Pasted image 20250125145211.png]]

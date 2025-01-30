@@ -1,0 +1,4 @@
+1. focusing on the service flow of the durable goods provide important insights on the durability but it does leave an important question unanswered - when should the monopoly produce the actual durable goods needed to provide the desired service flow. 
+2. Ronald Coase was the first economist to note this time inconsistency that arises when a monopoly produces a durable good. 
+3. Coase argued that its presence would severely undercut the potential monopoly power - in limit, the competitive pricing is the only outcome that can prevail in the case of durable goods. 
+4. Only if the monopoly can succeed in making a credible commitment to not produce more in the second period can it succeed in its plan to achieve monopoly profits on the service flow from durable goods. 

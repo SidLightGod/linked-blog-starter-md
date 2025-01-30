@@ -1,0 +1,3 @@
+1. with a fixed market demand curve, the supply curve for the monopoly will only be a single point, namely that price and output combination for which the MC = MR. 
+2. if the demand curve should shift the marginal revenue curve will also shit and a new profit maximizing output would be chosen. 
+3. connecting these different equilibrium points would have little meaning, it would give a strange shape. 
