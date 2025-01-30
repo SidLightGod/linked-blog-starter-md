@@ -21,3 +21,10 @@ Related : [[Monte Carlo experiment]]
 ## Goodness of the Fit 
 
 Related : [[Goodness of the Fit]]
+
+## Reporting the results of the regression analysis 
+
+Related : [[Results of the regression analysis]]
+
+# Normality Tests 
+Related : [[Normality tests]]
