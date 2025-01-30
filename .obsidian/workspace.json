@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "remote blog/README.md",
+                "file": "INTERMEDIATE MICROECONOMICS/MONOPOLY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "MONOPOLY"
             }
           }
         ]
@@ -210,7 +210,8 @@
   },
   "active": "cd466d7825e3d167",
   "lastOpenFiles": [
-    "remote blog/INTERMEDIATE MICROECONOMICS/Creation of barriers to entry.md",
+    "remote blog/README.md",
+    "INTERMEDIATE MICROECONOMICS/Creation of barriers to entry.md",
     "remote blog/publish/attachments/vercel-project-id.png",
     "remote blog/publish/attachments/vercel-create-token.png",
     "remote blog/publish/attachments/vercel-account-id.png",
@@ -236,7 +237,6 @@
     "remote blog/publish/attachments",
     "remote blog/publish/accepted-markdown-metadata.md",
     "remote blog/publish",
-    "remote blog/README.md",
     "remote blog",
     "remote-blog/publish/deploy-a-custom-linked-blog-starter.md",
     "remote-blog/publish/how-linked-blog-starter-works.md",
@@ -244,7 +244,7 @@
     "remote-blog/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
     "remote-blog/publish/reinventing-the-wheel.md",
     "remote-blog/publish/statically-generated.md",
-    "remote blog/INTERMEDIATE MICROECONOMICS/Time inconsistency and heterogeneous demand.md",
+    "INTERMEDIATE MICROECONOMICS/Time inconsistency and heterogeneous demand.md",
     "remote-blog/publish/works-out-of-the-box-with-markdown-files.md",
     "remote-blog/publish/update-publish-settings-github-actions.md",
     "remote-blog/publish/linked-blog-starter-does-not-reinvent-wheel.md",
