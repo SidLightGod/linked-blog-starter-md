@@ -93,9 +93,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTERMEDIATE MICROECONOMICS/MONOPOLY.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "INTERMEDIATE MICROECONOMICS/First Degree or Perfect Price Discrimination.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MONOPOLY"
+              "title": "Backlinks for First Degree or Perfect Price Discrimination"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTERMEDIATE MICROECONOMICS/MONOPOLY.md",
+                "file": "INTERMEDIATE MICROECONOMICS/First Degree or Perfect Price Discrimination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MONOPOLY"
+              "title": "Outgoing links from First Degree or Perfect Price Discrimination"
             }
           },
           {
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
