@@ -41,3 +41,13 @@ Related : [[Time inconsistency and heterogeneous demand]]
 # Price Discrimination 
 
 Related : [[Price Discrimination]]
+
+# THIRD DEGREE PRICE DISCRIMINATION THROUGH MARKET SEPARATION 
+Related : [[Third Degree Price Discrimination]]
+
+# Second Degree Price Discrimination 
+Related : [[Second degree price discrimination]]
+
+# REGULATION OF MONOPOLY 
+
+Related : [[Regulation of Monopoly]]
