@@ -8,3 +8,8 @@
 8. if the variable is normally distributed then the S is zero and the k - 3 is also zero therefore the value of the JB statistic is zero ipso facto 
 9. if the variable is not normally distributed then the JB statistic would be taking increasingly larger values. 
 10. if the computed chi values from the JB statistic exceeds the chi value for 2 D.F at the chosen level of significance, we reject the null hypothesis of the normal distribution. but if it does not exceed the critical chi value, we do not reject the null hypothesis 
+
+> The confidence level = 100 - level of significance ($\alpha$) 
+> p value <= $\alpha$ ---> we reject the null hypothesis 
+> p value >= $\alpha$ ----> we fail to reject the null hypothesis 
+

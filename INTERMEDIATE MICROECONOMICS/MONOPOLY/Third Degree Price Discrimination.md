@@ -1,5 +1,5 @@
 1. the first degree price discrimination puts a considerable amount of burden on the monopoly- it must know the demand function for each potential buyer. 
-2. a less stringent requirement would be to assume that the buyer can separate its buyers into relatively few identifiable markets and pursue a separate market policy in each market. 
+2. a less stringent requirement would be to assume that the firm can separate its buyers into relatively few identifiable markets and pursue a separate market policy in each market. 
 3. the knowledge of price elasticities of demand in each market is enough to pursue a separate monopoly pricing policy in each market. 
 4. the monopoly then sets a price in each market based on the inverse elasticity rule, the result is a pricing policy in which : 
 5. $$ P_i (1 + \frac{1}{e_i}) = P_j(1 + \frac{1}{e_j}) $$
