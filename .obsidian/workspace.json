@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTERMEDIATE MICROECONOMICS/EXCHANGE/Edgeworth Box.md",
+                "file": "ECONOMETRICS/TWO VARIABLE MODEL/classical linear regression model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edgeworth Box"
+              "title": "classical linear regression model"
             }
           }
         ]
@@ -209,13 +209,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da6f1af25156e890",
+  "active": "14bc73607164d2bd",
   "lastOpenFiles": [
-    "INTERMEDIATE MICROECONOMICS/EXCHANGE/EXCHANGE.md",
-    "INTERMEDIATE MICROECONOMICS/EXCHANGE/Edgeworth Box.md",
     "ECONOMETRICS/TWO VARIABLE MODEL/THE TWO VARIABLE MODEL.md",
-    "ECONOMETRICS/TWO VARIABLE MODEL/Normal Probability Plots.md",
     "ECONOMETRICS/TWO VARIABLE MODEL/Normality tests.md",
+    "ECONOMETRICS/MULTIPLE REGRESSION/MULTIPLE REGRESSION.md",
+    "ECONOMETRICS/MULTIPLE REGRESSION/Meaning of partial regression coefficient.md",
+    "ECONOMETRICS/MULTIPLE REGRESSION/Three variable linear regression model.md",
+    "INTERMEDIATE MICROECONOMICS/EXCHANGE/Walras' law.md",
+    "INTERMEDIATE MICROECONOMICS/EXCHANGE/Market Trade.md",
+    "INTERMEDIATE MICROECONOMICS/EXCHANGE/EXCHANGE.md",
+    "INTERMEDIATE MICROECONOMICS/EXCHANGE/Pareto Efficient Allocations.md",
+    "INTERMEDIATE MICROECONOMICS/EXCHANGE/Trade.md",
+    "INTERMEDIATE MICROECONOMICS/EXCHANGE/Edgeworth Box.md",
+    "ECONOMETRICS/TWO VARIABLE MODEL/Normal Probability Plots.md",
     "ECONOMETRICS/TWO VARIABLE MODEL/Histograms of residuals.md",
     "ECONOMETRICS/TWO VARIABLE MODEL/Results of the regression analysis.md",
     "ECONOMETRICS/TWO VARIABLE MODEL/Goodness of the Fit.md",
@@ -226,22 +233,15 @@
     "ECONOMETRICS/TWO VARIABLE MODEL/variances and standard errors of ordinary least squares estimators.md",
     "ECONOMETRICS/TWO VARIABLE MODEL/classical linear regression model.md",
     "ECONOMETRICS/MULTIPLE REGRESSION/The concept of adjusted R squared.md",
-    "ECONOMETRICS/MULTIPLE REGRESSION/MULTIPLE REGRESSION.md",
     "ECONOMETRICS/TWO VARIABLE MODEL/Jarque-Bera Test.md",
     "ECONOMETRICS/MULTIPLE REGRESSION/introduction to specification bias.md",
     "ECONOMETRICS/MULTIPLE REGRESSION/relation between F and the R squared.md",
     "ECONOMETRICS/MULTIPLE REGRESSION/Testing the joint hypothesis.md",
     "Pasted image 20250213171440.png",
-    "INTERMEDIATE MICROECONOMICS/MONOPOLY/MONOPOLY.md",
-    "SOME EXTRA FORMULAE.md",
     "Pasted image 20250212234228.png",
     "Pasted image 20250212210612.png",
-    "INTERMEDIATE MICROECONOMICS/MONOPOLY/Third Degree Price Discrimination.md",
-    "INTERMEDIATE MICROECONOMICS/MONOPOLY/Second degree price discrimination.md",
-    "INTERMEDIATE MICROECONOMICS/MONOPOLY/First Degree or Perfect Price Discrimination.md",
     "Pasted image 20250212174005.png",
     "Pasted image 20250212173950.png",
-    "ECONOMETRICS/MULTIPLE REGRESSION/Goodness of fit of estimated multiple regression.md",
     "Pasted image 20250210221425.png",
     "Pasted image 20250210221354.png",
     "INTERMEDIATE MICROECONOMICS/EXCHANGE/Pasted image 20250208225036.png",
