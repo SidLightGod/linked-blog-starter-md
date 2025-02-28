@@ -22,3 +22,6 @@ related : [[Ricardian Equivalence]]
 
 # Deficits, Output stabilization and cyclically adjusted deficit 
 related : [[deficits, output stabilization and cyclically adjusted deficit]]
+
+# wars and deficits 
+related : [[wars and deficits]]

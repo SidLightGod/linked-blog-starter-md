@@ -5,4 +5,9 @@
 5. such a measure gives us a benchmark against which to judge the direction of the fiscal policy, if the deficit is large but the cyclically adjusted deficit is zero, then the fiscal policy is consistent with no systematic increase in debt over time. 
 6. the debt will increase as long as the output is below the natural level. But as the output returns to its natural level, the deficit will disappear and debt will stabilize. 
 7. it does not however follow that the goal is to always maintain a cyclically adjusted deficit equal to zero. During times of recession the government may want to maintain a large enough deficit that even the cyclically adjusted deficit is positive. 
-8. in this case the fact that the cyclically adjusted deficit is large 
+8. in this case the fact that the cyclically adjusted deficit is large provides us with a warning that the return of the output to the natural level will not be enough to stabilize the debt. 
+9. the government will have to take specific measures, from tax increases, to cuts in spending, to decrease the deficit at some point in future. 
+
+###### how the measures of cyclically adjusted deficits are constructed 
+1. the first step is straightforward. A reliable rule of thumb is that a 1% decrease in output automatically leads to an increase in deficit of about 0.5% of GDP. this increase occurs because most tax is proportional to output, whereas most spending does not depend on the output. that means a decrease in output which leads to a decrease in revenues and not much change in spending naturally leads to a larger deficit. 
+2. the second step involves assessing how far the output is from its natural level. The second step is a bit difficult because the natural level of output is the level of output at which the economy is operating at the natural level of unemployment. Too low an estimate of natural level of unemployment would imply too high an estimate of natural level of output and therefore to too optimistic a measure of cyclically adjusted deficit. 
