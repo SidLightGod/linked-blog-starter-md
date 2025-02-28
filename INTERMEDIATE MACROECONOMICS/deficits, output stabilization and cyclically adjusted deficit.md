@@ -1,0 +1,8 @@
+1. the fact that budget deficits do indeed have a long run adverse affect on the capital accumulation does not however imply that we should not use fiscal policy to reduce output fluctuations. 
+2. rather this implies that the deficits during recessions should be offset by surpluses during the boom, so as not to lead to a steady increase in debt. 
+3. to help assess whether the fiscal policy is on tract or not, economists have developed deficit measures that tell them what the deficits would be under existing tax and spending rules, if output were at the natural level. 
+4. such measures come under various names such as full employment deficit, to mid cycle deficit, to standardized employment deficit, to structural deficit 
+5. such a measure gives us a benchmark against which to judge the direction of the fiscal policy, if the deficit is large but the cyclically adjusted deficit is zero, then the fiscal policy is consistent with no systematic increase in debt over time. 
+6. the debt will increase as long as the output is below the natural level. But as the output returns to its natural level, the deficit will disappear and debt will stabilize. 
+7. it does not however follow that the goal is to always maintain a cyclically adjusted deficit equal to zero. During times of recession the government may want to maintain a large enough deficit that even the cyclically adjusted deficit is positive. 
+8. in this case the fact that the cyclically adjusted deficit is large 

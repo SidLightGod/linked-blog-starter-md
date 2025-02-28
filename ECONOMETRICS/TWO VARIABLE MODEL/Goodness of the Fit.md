@@ -3,7 +3,7 @@
 ##### derivation of the goodness of fit formula 
 1. not all ei = Yi - Y^j  are zero some are positive and some are negative. 
 2. $$Yi = \hat{Y}i + ei$$
-3. $$ Yi - \bar{Y} = (\hat{Y} - \bar{Y}) + (Yi - \hat{Yi})[epsilon]$$
+3. $$ Yi - \bar{Y} = (\hat{Y} - \bar{Y}) + (Yi - \hat{Yi})[\epsilon]$$
 4. the right hand side of the above equation represents the variation in the Yi from its mean value which must be equal to the sum of the variation in Y1 explained by X around its mean and residual variation. 
 5. now letting the small letters represent the deviations from mean values we can write the following 
 	- $yi = \hat{y}i + ei$
