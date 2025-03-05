@@ -25,3 +25,16 @@ related : [[deficits, output stabilization and cyclically adjusted deficit]]
 
 # wars and deficits 
 related : [[wars and deficits]]
+
+# Passing on the burden of the war 
+Related : [[Passing on the burden of the war]]
+
+# Reducing tax distortions 
+Related : [[reducing the tax distortions]]
+
+# The dangers of high debt 
+Related : [[Dangers of high debt]]
+
+# Design of monetary policy
+related : [[design of the monetary policy]]
+

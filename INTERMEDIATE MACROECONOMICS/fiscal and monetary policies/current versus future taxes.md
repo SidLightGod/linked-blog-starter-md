@@ -4,10 +4,10 @@ during year 1, government decrease the taxes by 1 (say one billion dollar) for o
 
 ## full repayment in year 2 
 1. suppose the government decides to repay the entire debt by year 2. then the budget constraint equation shall be $$ B_2 = (1 + r)B_1 + (G_2 - T_2) $$
-2. if the debt is repaid entirely, then the debt at the end of year 2 is equal to zero. Replacing $B_1$ by 1 and $B_2$ by zero and transposing terms gives : $$ T_2 - G_2 = (1 + r)1 => (1 + r) $$
+2. if the debt is repaid entirely, then the debt at the end of year 2 is equal to zero. Replacing $B_1$ by 1 (this is a classical normalization assumption made to make the math cleaner and focus more on the rate of interest) and $B_2$ by zero and transposing terms gives : $$ T_2 - G_2 = (1 + r)1 => (1 + r) $$
 3. this implies that the government must run a primary surplus which equals $(1 + r)$ during year 2. 
 
-##### how can the government achieve this primary deficit? 
+##### how can the government achieve this primary surplus? 
 1. a decrease in the government spending or increasing the taxes. 
 2. it implies that a decrease in the tax by 1 must be offset by an increase in taxes by (1 + r) during year 2. 
 
@@ -27,5 +27,5 @@ during year 1, government decrease the taxes by 1 (say one billion dollar) for o
 6. this implies that the government must run a primary surplus equal to $(1 + r)^{t - 1}$ during year t. If the adjustment is done through taxes, the initial decrease in taxes of 1 during year 1 leads to an increase in taxes of $(1 + r)^{t - 1}$ during year t. 
 
 ###### This yields the first set of conclusions 
-1. if government spending in unchanged, a decrease in taxes must be offset by an increase in the taxes in future. 
-2. the longer the government waits to increase the taxes, or higher the real rate of interest is, the higher the eventual increase in taxes must be. 
+1. **if government spending in unchanged, a decrease in taxes must be offset by an increase in the taxes in future.** 
+2. **the longer the government waits to increase the taxes, or higher the real rate of interest is, the higher the eventual increase in taxes must be.** 

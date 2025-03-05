@@ -1,0 +1,4 @@
+1. an important implication of the Phillips curve is that if the authorities wish to reduce the rate of inflation, there will be a cost as a period in which unemployment would be above the ERU. 
+2. lets assume an economy which is at ERU with the inflation high and constant. If inflation is to be lower than it was last period, unemployment must be pushed above the ERU. 
+3. we can even prove this mathematically by showing the fact that if the inflation difference is greater than 0, then the output difference part would also have to be greater than 0 and therefore output this period would have to be less than the output in the previous year. 
+4. 
