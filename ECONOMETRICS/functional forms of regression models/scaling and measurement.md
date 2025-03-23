@@ -1,0 +1,5 @@
+1. this is regarding the question of whether different unit of measurement affect the regression or not. 
+2. first the r squares value is same in all these regressions, which is not a surprising because r squared is a pure number, devoid of units in which the dependent variable and independent variable are measured. 
+3. second the intercept term is always in the units in which the dependent variable is measured. this is because the intercept value represents the value of the dependent variable when the independent variable takes the zero value. 
+4. third when the dependent and the independent are measured in the same units of measurement, the slope coefficient as well as their standard errors remain the same, the intercept value and the standard errors are different. 
+5. however when the dependent and the independent variable are measured in different units of measurement, the slope coefficients are different but the interpretation does not change. 
