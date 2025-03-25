@@ -10,6 +10,6 @@
 7. **the regression coefficient of the standardized explanatory variable denoted by the starred parameters are known as the beta coefficients**
 
 ###### the interpretation of the beta coefficient? 
-1. the interpretation is that if the standardized regressor increases by one standard deviation, the average value of the standardized regressand increases by $B_2^{\star}$ standard deviation units. 
+1. **the interpretation is that if the standardized regressor increases by one standard deviation, the average value of the standardized regressand increases by $B_2^{\star}$ standard deviation units.** 
 2. thus unlike the traditional models, we measure the effect not in terms of the units in which the Y and X are measured, but in the standard deviation units. 
 3. 
