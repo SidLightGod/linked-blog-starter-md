@@ -1,0 +1,7 @@
+1. The period of 2000s was a period of unusually low rates of interest. As a result the mortgage rates were also low, increasing the demand for housing and thus pushing the price. 
+2. Other factors were also at work, the mortgage lenders were increasingly willing to make loans to riskier borrowers. 
+3. these mortgages are also known as the sub-prime mortgages or simply subprimes. These are essentially loan offered to low credit scorers. By 2006, 20% of all US mortgages was subprime. 
+4. most economists saw this as a positive development, it allowed more houses to be bought and under the assumption that the price of houses would continue to increase, so the value of the mortgage would decrease over time relative to the price of the house, it looked safe both for the lenders and for borrowers. 
+5. judging from the past, the assumption that the housing prices would not decrease seemed reasonable, the housing prices did not decrease during 2000-2001 recession. 
+6. from the prices of the house could go down as evident from the 2006 on. The borrowers found themselves in a situation where the mortgage they owed now exceeded the value of the house. **When the value of the mortgage exceeds the value of the house, the mortgage is said to be underwater.** 
+7. second, it became clear that, in many cases the value of the mortgage were in fact riskier than either the lenders pretended or the borrower understood. In many cases.

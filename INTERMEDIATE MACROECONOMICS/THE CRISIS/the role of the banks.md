@@ -1,0 +1,9 @@
+1. we focus on the banks being financial intermediaries, the institutions that receives funds from those who wish to save and use those funds to grant loans to those who wish to borrow. 
+2. suppose the bank did not hold any capital, then if for some reason, the assets it had, went down in value, and the liabilities remained the same, the liabilities would exceed the assets and the bank would go bankrupt. 
+3. it is essential for the bank to hold enough capital to limit the risk of bankruptcy. 
+4. however just holding some capital may not be enough to prevent bankruptcy as it is very possible that the value of the assets falls so much to the point that the capital that the bank holds is not enough to cover its loses. The bank would become insolvent. 
+5. suppose that some of the investors that have loaned to the bank want their funds back right away, selling some of its assets may help the bank get some of the funds to pay the depositors. But it may be difficult for the bank to sell the assets quickly 
+6. calling back loans is difficult and some of its securities may be hard to sell. The problem of the bank in this case is not solvency but illiquidity. The bank is still solvent but it is illiquid. 
+7. the more liquid its liabilities or the less liquid its assets, the more likely the bank is to find itself in trouble. 
+8. what happened in this crisis is a combination of all these factors. The banks had too little capital, liabilities, both deposits and other securities issued by the bank were very liquid, the assets however were often very illiquid. 
+9. the outcome was a combination of both liquidity and solvency problems, which quickly paralyzed the financial system. 

@@ -1,0 +1,5 @@
+1. as the crisis worsened the solvency and the liquidity concerns increased sharply, each reinforcing the other. 
+2. when housing prices declined, and some mortgages went bad, high leverage implied a sharp decline in the capital of banks. this in turn forced them to sell some of their assets. 
+3. because these assets were hard to value, they had to sell them at fire sale prices. This in turn decreased the value of assets remaining on the balance sheet of other banks, leading to a further decline in capital ratio and further sales of assets and further declines in prices. 
+4. the complexity of the securities and of the true balance sheets of the banks made it very difficult to assess the solvency of the bank and their risk of bankruptcy 
+5. thus the investors become very reluctant of continuing to lend them and wholesale funding came to a stop, forcing further asset sales and the price declined, even the banks became more reluctant to lend to each other and the ted spread had become higher and non zero. 
