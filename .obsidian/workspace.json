@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECONOMETRICS/HETEROSCEDASTICITY/white's general heteroscedasticity test.md",
+                "file": "ECONOMETRICS/HETEROSCEDASTICITY/respecification of the model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "white's general heteroscedasticity test"
+              "title": "respecification of the model"
             }
           }
         ]
@@ -209,20 +209,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d2fa71d57022790",
+  "active": "043f20396e6327c6",
   "lastOpenFiles": [
+    "ECONOMETRICS/HETEROSCEDASTICITY/remedial measures of heteroscedasticity.md",
+    "ECONOMETRICS/HETEROSCEDASTICITY/respecification of the model.md",
+    "ECONOMETRICS/HETEROSCEDASTICITY/detection of heteroscedasticity.md",
+    "ECONOMETRICS/HETEROSCEDASTICITY/HETEROSCEDASTICITY.md",
+    "ECONOMETRICS/HETEROSCEDASTICITY/when the true error variance is unknown.md",
+    "ECONOMETRICS/HETEROSCEDASTICITY/the method of weighted least squares.md",
+    "Pasted image 20250416202230.png",
+    "Pasted image 20250416201643.png",
     "ECONOMETRICS/HETEROSCEDASTICITY/nature of heteroscedasticity.md",
+    "ECONOMETRICS/HETEROSCEDASTICITY/Pasted image 20250416195211.png",
+    "ECONOMETRICS/HETEROSCEDASTICITY/Pasted image 20250416195702.png",
+    "ECONOMETRICS/HETEROSCEDASTICITY/white's general heteroscedasticity test.md",
     "ECONOMETRICS/HETEROSCEDASTICITY/graphical examination of the residuals.md",
     "ECONOMETRICS/TWO VARIABLE MODEL/Pasted image 20250318214546.png",
     "ECONOMETRICS/TWO VARIABLE MODEL/Pasted image 20250228185636.png",
-    "ECONOMETRICS/HETEROSCEDASTICITY/white's general heteroscedasticity test.md",
-    "ECONOMETRICS/HETEROSCEDASTICITY/detection of heteroscedasticity.md",
     "ECONOMETRICS/HETEROSCEDASTICITY/Glejser Test.md",
     "ECONOMETRICS/HETEROSCEDASTICITY/Park Test.md",
     "remote blog/Pasted image 20250416170145.png",
     "remote blog/Pasted image 20250416150718.png",
     "remote blog/Pasted image 20250416150713.png",
-    "ECONOMETRICS/HETEROSCEDASTICITY/HETEROSCEDASTICITY.md",
     "ECONOMETRICS/HETEROSCEDASTICITY/consequences of heteroscedasticity.md",
     "remote blog/Pasted image 20250416142453.png",
     "ECONOMETRICS/MULTICOLLINEARITY/remedy for multicollinearity.md",
@@ -242,14 +250,7 @@
     "INTERMEDIATE MACROECONOMICS/THE CRISIS/the slow recovery.md",
     "INTERMEDIATE MACROECONOMICS/THE CRISIS/the limits of monetary policy the liquidity trap.md",
     "INTERMEDIATE MACROECONOMICS/THE CRISIS/leverage.md",
-    "INTERMEDIATE MACROECONOMICS/THE CRISIS/amplification mechanism.md",
-    "INTERMEDIATE MACROECONOMICS/THE CRISIS/complexity.md",
-    "INTERMEDIATE MACROECONOMICS/THE CRISIS/the role of the banks.md",
-    "INTERMEDIATE MICROECONOMICS/Pasted image 20250406000253.png",
-    "remote blog/Pasted image 20250405232323.png",
-    "remote blog/Pasted image 20250405225311.png",
     "INTERMEDIATE MACROECONOMICS/THE CRISIS",
-    "remote blog/Pasted image 20250326143657.png",
     "INTERMEDIATE MICROECONOMICS/WELFARE",
     "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS",
     "INTERMEDIATE MACROECONOMICS/fiscal and monetary policies",
