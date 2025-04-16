@@ -19,3 +19,5 @@ related : [[initial policy responses]]
 # The limits of Monetary Policy : the liquidity trap 
 related : [[the limits of monetary policy the liquidity trap]]
 
+# The slow recovery 
+related : [[the slow recovery]]
