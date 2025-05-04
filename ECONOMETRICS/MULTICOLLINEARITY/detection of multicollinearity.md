@@ -9,7 +9,7 @@
 
 ## Variance Inflation Factor 
 $$ VIF = \frac{1}{(1 - R_2^2)} $$
-1. the right hand side of the equation is called the variance inflation factor because as R square increases, the variance and the standard error 
+1. the right hand side of the equation is called the variance inflation factor because as R square increases, the variance and the standard error increases or in other words inflates. 
 2. when this coefficient of determination is 1, these variances and standard errors are undefined, and of course if the R square is zero, that is, there is no correlation, then the VIF would be 1. 
 
 ###### why is it that the R square might just be a surface indicator of multicollinearity 

@@ -1,0 +1,4 @@
+1. in empirical analysis the raw data is often massaged in a process referred to as data manipulation. 
+2. the averaging introduces smoothness into the data by dampening the fluctuations in the monthly data. 
+3. therefore, the graph plotting the quarterly data looks much smoother than monthly data and this smoothness can itself lend to a systematic pattern in the disturbances and thereby inducing autocorrelation. 
+4. autocorrelation can be positive as well as negative, although most economic time series generally exhibit positive autocorrelation, because most of them either move upwards or downwards over extended periods of time and do not exhibit a constant up and down movement. 

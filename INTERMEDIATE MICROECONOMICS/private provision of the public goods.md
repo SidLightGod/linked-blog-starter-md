@@ -1,0 +1,7 @@
+1. acquiring the public good would be Pareto efficient if the sum of their willingness to pay exceeds the cost of providing the good. 
+2. whether they actually decide to acquire the public good depends on the particular method they adopt to make joint decisions. 
+3. if the two roommates cooperate and truthfully reveal how much they value the TV, then it should not be difficult for them to agree on whether or not they should buy the TV. But under some circumstances they may not have the incentive to tell the truth. 
+4. for example, let us say that both the individuals valued the good equally, and that their reservation prices were greater than the cost. Then person 1 might think that if he say that he had 0 value for the good, the other person would acquire it anyway. But the person 2 may reason the same way. 
+5. one can imagine other situations where both the people refuse to contribute in the hopes that the other person would go out and unilaterally purchase the TV. 
+6. in this kind of situation, economists say that the people are attempting to free ride on each other. Each person hopes that the other person will purchase the public good on their own. 
+7. since each people will have full use of the server of the good, if it is acquired, each person has an incentive to try to pay as little as possible toward the provision of the TV. 

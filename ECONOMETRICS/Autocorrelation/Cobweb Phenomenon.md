@@ -1,0 +1,4 @@
+1. the supply of many agricultural commodities reflects the so called Cobweb Phenomenon, where supply reacts to the price with a lag of one time period because supply decisions take time to implement- the gestation period. 
+2. thus at the beginning of this year's planting of crops, the farmers are influenced by the price prevailing last year so that their supply function is $$ Supply_t = B_1 + B_2P_{t-1} - u_t $$
+3. suppose that at the end of the period t, the price turns out to be lower than the previous period therefore the farmers would choose to produce lower in the period t + 1
+4. obviously in this situation the disturbance is not expected to be random for if the farmers overproduce in year t, they are likely to underproduce in year t + 1 leading to a cobweb pattern. 

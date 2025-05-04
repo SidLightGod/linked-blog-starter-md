@@ -1,0 +1,6 @@
+1. finally we turn to the third interpretation of the externalities, which in some respects is the most profound one. 
+2. in case of steel firm and fishery, there wont be any problem if they merged so the question arises about why they do not merge.
+3. the profit maximization objective itself should encourage the internalization for the production externalities 
+4. if the joint profits of the firm with coordination exceed the sum of profits without coordination, then the current owners could each be bought out for an amount equal to the present value of stream of profits for their firm, the two firms could be coordinated and the the buyer could retain the excess profits. The new buyer could either be the old firms or anybody else for that matter. 
+5. the market itself provides a signal to internalize production externalities, which is one of the reasons why this kind of production externality is rarely observed. 
+6. Most firms have already internalized the externalities between units that affect each other's production. 

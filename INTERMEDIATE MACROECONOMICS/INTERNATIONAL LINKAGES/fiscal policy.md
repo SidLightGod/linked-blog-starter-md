@@ -1,0 +1,5 @@
+1. a tax cut or an increase in the government spending would lead to an expansion in demand in the same way as increased exports. 
+2. again, the tendency of the interest rate to rise leads to appreciation and therefore to a fall in the exports and increased imports. 
+3. there is accordingly complete crowding out here as the exchange appreciation reduces the net exports. 
+4. the important lesson here is that the disturbances to demand do not affect equilibrium output under flexible rates with perfect capital mobility. we can drive the lesson home by comparing a fiscal expansion under flexible rates with the results we derived from the fixed rate case. 
+5. for flexible rates, a fiscal expansion does not change the equilibrium output. Instead it produces an offsetting exchange rate appreciation and a shift in the composition of domestic demand toward the foreign goods and away from domestic good.  

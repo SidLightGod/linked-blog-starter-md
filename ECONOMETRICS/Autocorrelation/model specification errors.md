@@ -1,0 +1,4 @@
+1. sometimes autocorrelation patterns occurs not because of successive observations but because of incorrect specification of the model. 
+2. incorrect specification of model implies that some important variables are not included in the model or that model is in the wrong function form that is say a linear in variable model is fitted whereas a log linear model should be fitted. 
+3. if such model specification error occurs, then the residuals from the incorrect model will exhibit a systematic pattern. 
+4. a simple test could be to simply include the excluded variable and to determine if residual show a distinct pattern. 

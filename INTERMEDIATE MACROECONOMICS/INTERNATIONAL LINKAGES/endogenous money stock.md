@@ -1,0 +1,3 @@
+1. although the assumption of perfect capital mobility is extreme, it is a useful benchmark case that in the end is not too far from reality. 
+2. The essential point is that the commitment to maintain a fixed exchange rate makes the money stock endogenous because the central bank has to provide the foreign exchange or domestic money that is demanded at the fixed exchange rate. 
+3. thus even when the capital mobility is less than, the central bank has only limited ability to change the money supply without having to worry about maintaining the exchange rate. 

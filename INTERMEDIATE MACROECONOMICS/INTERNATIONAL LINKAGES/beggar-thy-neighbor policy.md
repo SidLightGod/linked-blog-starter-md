@@ -1,0 +1,8 @@
+1. monetary expansion in the home country leads to exchange depreciation, an increase in the net exports, and therefore an increase in the output and employment. 
+2. But the increased net exports implies a deterioration in the trade balance abroad. The domestic depreciation shifts the demand from foreign goods towards domestic goods. Abroad, output and employment decline. 
+3. it is for this reason that a depreciation induced change in the trade balance is called a beggar thy neighbor policy, it is a way of exporting unemployment or of creating domestic employment at the expense of the rest of the world. 
+4. recognition that exchange depreciation is just a way of shifting demand from one country to another, rather than changing the level of world demand, is important. 
+5. It implies that an exchange rate adjustment can be a useful policy when countries find themselves in different stages of a business cycle, for example one is boom and the other one in recession. 
+6. In that event, a depreciation by a country experiencing recession would shift world demand in its direction and thus work to reduce divergences from full employment in each country. 
+7. if every country tried to depreciate to attract world demand, we would have a competitive depreciation and a shifting around of world demand rather than an increase in the worldwide level of spending.
+8. and if everyone depreciated to roughly the same extent we would end up with exchange rates about where they started. 

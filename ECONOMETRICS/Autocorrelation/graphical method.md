@@ -1,0 +1,6 @@
+1. as in case of heteroscedasticity, a simple visual examination of OLS residuals, e's, can give valuable insight about the likely presence of autocorrelation among the error terms, the u's. 
+2. now there are various ways of examining the residuals. we can plot them against the time, which depicts the residual obtained from regression and such a plot is called a time sequence plot. 
+3. ![[Pasted image 20250504135215.png]]
+4. an examination of the figure above shows that the residuals do not seem to be randomly distributed. As a matter of fact they exhibit a distinct behavior. Initially they are negative, then they become positive, then negative, then positive and then negative. 
+5. ![[Pasted image 20250504135345.png]]
+6. this can be seen more vividly if we plot $e_1$. The general tenor of this figure is that successive residuals are positively correlated, suggesting positive correlated, suggesting positive autocorrelation; most residual are bunched in the first (northeast) and third (southwest) quadrants. 
