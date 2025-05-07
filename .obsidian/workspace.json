@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/nature of dummy variable.md",
+                "file": "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/ancova models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nature of dummy variable"
+              "title": "ancova models"
             }
           }
         ]
@@ -212,8 +212,8 @@
   "active": "341ea1efc61375eb",
   "lastOpenFiles": [
     "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/DUMMY VARIABLE REGRESSION MODELS.md",
-    "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/comparing two regressions.md",
     "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/nature of dummy variable.md",
+    "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/comparing two regressions.md",
     "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/ancova with more than two classes or categories.md",
     "INTERMEDIATE MICROECONOMICS/PUBLIC GOODS/free rider problem.md",
     "Pasted image 20250507143359.png",
