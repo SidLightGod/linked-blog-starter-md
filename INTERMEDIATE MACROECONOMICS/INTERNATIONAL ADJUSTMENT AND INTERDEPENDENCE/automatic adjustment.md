@@ -1,0 +1,12 @@
+1. first we look at the demand side. when a country runs a balance of payments deficit, the demand for foreign exchange is by definition larger than the amount being supplied by the private markets, and central bank has to sell the difference. 
+2. when it sells foreign exchange, it reduces the domestic high powered money and therefore the money stock - unless it sterilizes its foreign exchange interventions by buying bonds as it sells foreign exchange. 
+3. ruling that possibility out, deficit at point E implies that the central bank is pegging the exchange rate, selling foreign exchange to keep foreign exchange rate from depreciating, and reducing the domestic money stock. 
+4. it follows that over time the aggregate demand schedule will be shifting downwards and to the left. 
+5. ![[Pasted image 20250504205156.png]]
+6. turning now to the aggregate supply side, the point E is also a point of unemployment. Unemployment leads to decline in the wages and costs, which are reflected in a downward shifting aggregate supply schedule. 
+7. over time, the short run equilibrium point E moves downwards as both the demand and supply schedule shift. The points of short run equilibrium move in the direction of point E', and the process continues until it has reached the point E'. 
+8. once point E' is reached the country has automatically achieved long run equilibrium, because the trade balance in is equilibrium. There is no pressure on the exchange rate so no need for the exchange market intervention, and therefore no changes in the money supply. 
+9. on supply side, the wages and costs are constant so that the supply schedule is not shifting. Thus at E' the country has successfully and automatically adjusted to the initial balance of payments deficit, it has achieved trade balance equilibrium combined with full employment. 
+10. this is the classical adjustment process. It relies on the price adjustment and adjustment in the money supply based on the trade balance. 
+11. the adjustment process works but it may take a long time and require a very long recession. 
+12. the alternative to waiting for the automatic adjustment to do the job, is to make explicit policy changes that rapidly move the economy towards the balance. 

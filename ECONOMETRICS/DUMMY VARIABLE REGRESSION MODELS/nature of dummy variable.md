@@ -8,7 +8,7 @@
 
 > a regression models which contains only dummy variables are called analysis of variance (ANOVA) models. 
 
-$$ Y_i = B_1 + B_2D_i + u_i $$
+$$Y_i = B_1 + B_2D_i + u_i$$
 where Y is the annual expenditure on food ($) 
 $D_i$ = 1 , if female 
 	= 0, if male 

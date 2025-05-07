@@ -20,3 +20,12 @@
 
 ![[Pasted image 20250504175543.png]]
 
+- this implies that if the d is closer to 0, there exists an evidence of positive autocorrelation, if the d is closer to 4, there is evidence of negative autocorrelation and the closer the closer the d is to 2, the more evidence is in favor of no autocorrelation. Of course, these are broad limits and some definite guidelines are needed as to when we can call a computed d value indicative of positive, negative, or no autocorrelation. 
+
+
+###### what are the steps involved in this test? 
+1. run the OLS regression and obtain the residuals 
+2. compute d, most computer programs now do this routinely. 
+3. find out the critical $d_L$ and $d_U$ from the Durbin Watson tables for the given sample size and the given number of explanatory variables.
+4. now we follow the decision rule as follows : ![[Pasted image 20250504180353.png]]
+5. 

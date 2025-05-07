@@ -12,3 +12,6 @@ related : [[different levels of the public good]]
 
 # Quasilinear Preferences and Public Goods
 related : [[quasilinear preferences and public goods]]
+
+# Free Rider Problem 
+related : [[free rider problem]]

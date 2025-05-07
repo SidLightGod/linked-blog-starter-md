@@ -1,0 +1,3 @@
+1. adjustment to a balance of payments problem can be achieved in two ways. One is to change the economic policy; the second is through automatic adjustment mechanisms. 
+2. the automatic adjustment mechanisms are two : payments imbalance affect the money supply and hence spending; and unemployment affects wages and prices and thereby competitiveness. 
+3. policy measures by contrast include monetary and fiscal policy, and also changes in tariff or exchange rate. 
