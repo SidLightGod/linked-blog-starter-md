@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/ancova models.md",
+                "file": "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/comparing two regressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ancova models"
+              "title": "comparing two regressions"
             }
           }
         ]
@@ -212,6 +212,7 @@
   "active": "341ea1efc61375eb",
   "lastOpenFiles": [
     "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/DUMMY VARIABLE REGRESSION MODELS.md",
+    "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/ancova models.md",
     "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/nature of dummy variable.md",
     "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/comparing two regressions.md",
     "ECONOMETRICS/DUMMY VARIABLE REGRESSION MODELS/ancova with more than two classes or categories.md",
@@ -248,7 +249,6 @@
     "ECONOMETRICS/Autocorrelation/consequences of autocorrelation.md",
     "INTERMEDIATE MACROECONOMICS/INTERNATIONAL LINKAGES/beggar-thy-neighbor policy.md",
     "INTERMEDIATE MACROECONOMICS/INTERNATIONAL LINKAGES/INTERNATIONAL LINKAGES.md",
-    "INTERMEDIATE MACROECONOMICS/INTERNATIONAL LINKAGES/adjustment to a change in the money stock.md",
     "remote blog/publish/attachments",
     "remote blog/publish",
     "remote blog",
