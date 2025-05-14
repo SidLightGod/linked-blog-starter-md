@@ -18,3 +18,13 @@ related : [[devaluation]]
 
 # Exchange rates and prices 
 related : [[exchange rates and prices]]
+
+# Crawling Peg Exchange Rate 
+related : [[crawling peg exchange rate]]
+
+# Exchange rates and relative price adjustment 
+related : [[exchange rates and relative price adjustments]]
+
+# Relative prices and the trade balance : The J curve 
+
+related : [[relative prices and the j curve]]

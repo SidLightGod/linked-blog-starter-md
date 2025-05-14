@@ -9,4 +9,3 @@
 8. At this price, $Q_R$ is demanded and the marginal cost of producing this level of output is also $P_R$. Consequently the marginal cost pricing has been achieved. 
 9. however due to the negative slope of the average cost curve, the price falls below the average cost. With this regulated price the monopoly must operate at a loss of GFE$P_R$ 
 10. because no firm can operate at a loss indefinitely, this posses a dilemma for the regulatory agency, either it must abandon its goal of marginal cost pricing, or the government must subsidize the monopoly forever. 
-11. 

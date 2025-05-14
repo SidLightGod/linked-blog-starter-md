@@ -1,0 +1,7 @@
+1. when a country experiences inflation above the rate of its trading partners, holding the exchange rate fixed would imply a steady loss in competitiveness. 
+2. in order to avoid the widening deficit, many countries follow a crawling peg exchange rate policy. 
+3. Under crawling peg exchange rate policy, the exchange rate is depreciated at a rate roughly equal to to the inflation differential between the country and its trading partners. 
+4. the idea of crawling peg is to maintain the real exchange rate, R = Pj/(P/e), constant by raising e at the same rate as P/Pj is rising. 
+5. countries are often and easily tempted to use the exchange rate to slow inflation. When the exchange rate is held constant, the prices of imports stay constant, and therefore the prices of some of the goods that enter the consumer price index are not increasing. This shows inflation. 
+6. But the reduction in inflation is bought by steadily increasing reducing the competitiveness. 
+7. Often such a strategy brings about a foreign exchange crisis. In the end, inflation has to be stopped by monetary and fiscal policy; exchange rate policy is at best a supplementary tool - at times a very reliable one, but it can not do most of the work during disinflation. 

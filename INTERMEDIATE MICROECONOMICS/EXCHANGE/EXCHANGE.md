@@ -19,3 +19,9 @@ Related [[Market Trade]]
 
 # WALRAS' LAW 
 Related : [[Walras' law]]
+
+# IMPLICATIONS of the FIRST WELFARE THEOREM 
+related : [[implications of the first welfare theorem]]
+
+# IMPLICATIONS OF THE SECOND WELFARE THEOREM 
+related : [[implications of the second welfare theorem]]
