@@ -1,0 +1,1 @@
+the foreign exchange market is where individuals, firms and banks buy and sell foreign currencies or foreign exchange 
