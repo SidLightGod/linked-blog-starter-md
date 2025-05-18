@@ -2,5 +2,7 @@
   "obsidian-spaced-repetition",
   "obsidian-discordrpc",
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-style-settings",
+  "share-to-notionnext"
 ]

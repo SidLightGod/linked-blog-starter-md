@@ -1,0 +1,11 @@
+{
+  "aura@@cpt-accent": "var(--cpt-cyan)",
+  "aura@@aura-colorshemes-light": "aura-colorschemes-light-kanagawa",
+  "aura@@aura-colorshemes-dark": "aura-colorschemes-dark-dracula",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz",
+  "encore-settings@@theme-dark": "encore-theme-dark-materialocean",
+  "encore-settings@@theme-light": "encore-theme-light",
+  "encore-settings@@encore-translucency": true,
+  "obsidian-typewriter@@shrink-formatting": true,
+  "obsidian-typewriter@@active-line-highlight": true
+}

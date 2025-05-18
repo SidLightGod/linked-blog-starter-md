@@ -1,0 +1,6 @@
+1. the exchange rate between two countries is kept the same in different monetary centers by arbitrage. 
+2. this refers to the purchase of the monetary currency in the monetary center where it is cheaper, for immediate resale in the monetary center where it is more expensive, in order to make profit. 
+3. as arbitrage takes place however, the exchange rate between the two currencies tend to be equalized in the two monetary centers. 
+4. when only two currencies and two monetary centers are involved its called a two point arbitrage, when three currencies and three monetary centers are involved its called a three point arbitrage.
+5. triangular arbitrage increases the demand for the currency in the monetary center where the currency is cheaper, increases the supply for the currency in monetary center where the currency is more expensive and quickly eliminates inconsistent cross rates and profitability of further arbitrage. 
+6. as a result arbitrage quickly equalizes the exchange rates for each pair of currencies and result in consistent cross rates among all pairs of currencies, thus unifying all international monetary centers into a single market. 

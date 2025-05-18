@@ -1,0 +1,3 @@
+1. a currency swap refers to the spot sale of a currency combined with a forward repurchase of the same currency - as part of a single transaction. 
+2. the swap rate is the difference between the spot rate and the forward rates in the currency swap. 
+3. most interbank trading involving the purchase or sale of currencies for future is delivery is done not by forward exchange contracts alone but combined with spot transactions in form of currency swaps. 

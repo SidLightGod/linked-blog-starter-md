@@ -1,8 +1,9 @@
 {
-  "cssTheme": "Dracula for Obsidian",
-  "accentColor": "#c8c6ec",
+  "cssTheme": "Typewriter",
+  "accentColor": "",
   "enabledCssSnippets": [
     "New Text Document"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 19
 }

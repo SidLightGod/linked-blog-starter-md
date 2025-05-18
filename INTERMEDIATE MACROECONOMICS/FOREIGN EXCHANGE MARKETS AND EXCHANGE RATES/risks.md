@@ -1,0 +1,2 @@
+1. whenever a future payment must be made or received in a foreign currency, a foreign exchange risk or a so called open position is always involved, because spot exchange rates vary over time.
+2. a foreign exchange risk arise not only from the transactions involving future payments and receipts in a foreign currency, but also from need to value inventories and asset held abroad in terms of domestic currency for inclusion in the firm's consolidated balance sheet, and in estimating the domestic currency value of the future profitability of the firm.

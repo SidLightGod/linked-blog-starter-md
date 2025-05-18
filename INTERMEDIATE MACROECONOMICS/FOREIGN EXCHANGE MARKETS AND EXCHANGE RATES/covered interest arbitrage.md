@@ -1,0 +1,13 @@
+1. investors of short term funds abroad generally want to avoid foreign exchange risk, therefore interest arbitrage is usually covered. 
+2. to do this, the investors exchange the domestic for foreign currency at the current spot rate in order to purchase the foreign treasury bills and at the same time the investor sells forward the amount of the foreign currency he or she is investing plus the interest he or she will earn so as to coincide with the maturity of the foreign investment. 
+3. thus the covered interest arbitrage refers to the spot purchase of foreign currency to make the investment and the offsetting simultaneous forward sale (Swap) of the foreign currency to cover the foreign exchange risk. 
+4. when the treasury bill matures, the investor can get the domestic currency equivalent of foreign investment plus the interest earned without a foreign exchange risk. 
+5. since the currency with higher interest is usually at a forward discount, the net return on investment is roughly equal to the interest differential in favor of the foreign monetary center minus the forward discount on the foreign currency. this reduction in earning can be viewed as the cost insurance against the foreign exchange risk. 
+
+###### as covered interest arbitrage continues the possibility of gains diminishes until it is completely wiped out/ how the spot rate and the forward rate on a currency closely related through covered interest arbitrage?
+1. first as the funds transfer from the US to Frankfurt, the interest rate rises in the US and falls in Frankfurt. 
+2. as a result the interest differential in the favor of Frankfurt diminishes. 
+3. second the purchase of euros in the spot market increases the spot rate and the sale of euros in the forward market reduces the forward rate. Thus, the forward discount on euro rises. 
+4. with the interest differential in favor of Frankfurt diminishing, and the forward discount on the euro rising, the net gain falls for both reasons until it becomes zero. Then the euro is said to be at covered interest arbitrage parity. 
+5. if the euro is instead a forward premium, the net gains to the US investor will be the extra interest earned plus the forward premium. 
+6. however as the covered interest coverage continues, the interest differential in favor of Frankfurt diminishes and so does the forward premium until it becomes a forward discount and all the gains are once again wiped out. 

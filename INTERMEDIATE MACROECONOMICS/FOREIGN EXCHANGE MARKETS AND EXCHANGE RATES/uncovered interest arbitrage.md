@@ -1,0 +1,4 @@
+1. since the transfer of funds abroad to take the advantage of the higher interest rates in foreign monetary centers involves the conversion of the domestic to foreign currency to make the investment, and the subsequent reconversion of funds from the foreign currency to domestic currency at the time of maturity, a foreign exchange risk is involved due possible depreciation. 
+2. if such a foreign exchange risk is covered we have a covered interest arbitrage, otherwise we have uncovered interest arbitrage. 
+3. suppose that the interest rate on three month treasury bills is 6% at annual basis in New York and 8% in Frankfurt. when the treasury bill mature, the US investor may want to exchange the euros invested plus the interest earned back into dollars. 
+4. however at the time, euro may have depreciated so the investor would get fewer dollars per euro that he or she 

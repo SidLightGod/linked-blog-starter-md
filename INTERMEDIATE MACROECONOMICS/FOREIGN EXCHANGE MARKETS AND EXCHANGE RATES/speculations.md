@@ -1,0 +1,14 @@
+1. speculations is the opposite of hedging. Whereas a hedger seeks to cover foreign exchange risks, a speculator accepts the risks and even seeks out a foreign exchange risk, or an open position, in the hope of making a profit. 
+2. if the speculator correctly anticipates future changes in the spot rates, they make a profit and if they do not, they incur loss. 
+3. as in the case of hedging, speculation can take place in the options, forward, spot, or futures markets- usually in the forward market. 
+
+###### speculation in a spot market 
+1. if a speculator believes that the spot rate of a particular foreign currency will rise, he or she can purchase the currency now and hold it on deposit in a bank for sale later. 
+2. if the speculator is correct and the spot rate does indeed rise, he or she earns profit on each unit of the foreign currency equal to the spread between the previous lower spot rate at which he or she purchased the foreign currency and the higher subsequent spot rate at which he or she sells it. 
+3. if the speculator is wrong and the spot rate falls instead, he or she incurs a loss because the foreign currency must be resold at a price lower than the purchase price. 
+4. if on the other hand, the speculator believes that the spot rate will fall, he or she borrows the foreign currency for three months, immediately exchanges it for domestic currency at the prevailing spot rate and deposits the domestic currency in bank to earn interest. after three months if the spot rate is lower as anticipated the speculator earns a profit by purchasing the currency at the lower spot rate. 
+5. if the spot rate in three months is higher rather than lower, the speculator incurs a loss. 
+6. when a speculator buys a foreign currency on the spot, forward, or futures market, or buys an option to purchase a foreign currency in the expectation of reselling it at a higher future spot rate, he or she is said to take a long position in the currency. 
+7. on the other hand when the speculator borrows or sells forward a foreign currency in the expectation of buying it at a future lower price to repay the foreign exchange loan or honor the forward sale contract or option, the speculator is said to take a short position. 
+8. speculation can be stabilizing or destabilizing. stabilization speculation refers to the purchase of foreign currency when the domestic price of the foreign currency falls or is low in the expectation that it will fall even lower in the future, or the purchase of a foreign currency when exchange rate is rising, or is high, in the expectation that it will rise even higher in the future 
+9. destabilizing speculations thus magnifies exchange rate fluctuations can prove very disruptive to the international flow of trade and investment 
