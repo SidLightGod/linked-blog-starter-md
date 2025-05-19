@@ -1,6 +1,6 @@
 1. another important development of 90s and 2000s was the the growth of securitization. 
 2. traditionally the financial intermediaries that made loans or issued mortgages kept them on their balance sheet. this had obvious drawbacks 
-3. securitization is the idea of creation of securities based on a bundle of assets. for instance, a mortgage based security, or MBS, in short is a title to the returns from a bundle of mortgages., with the number of underlying mortgages often in tens of thousands. 
+3. securitization is the idea of creation of securities based on a bundle of assets. for instance, a mortgage based security, or MBS, in short is a title to the returns from a bundle of mortgages, with the number of underlying mortgages often in tens of thousands. 
 4. the advantage is that many investors, who would not want to hold individual mortgages will be willing to buy and hold these securities. This increase in the supply of funds from investors is, in turn, likely to decrease the cost of borrowing. 
 5. one can think of further forms of securitization for example, instead of issuing identical claims to return on the underlying bundle of assets., one can issue different types of securities. 
 6. for example one can issue two types of securities : senior securities, which have first claims on the returns from the bundle, and junior securities, which come after and pay only if something is left after the senior securities have been paid. 

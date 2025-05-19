@@ -19,4 +19,3 @@ how does taking into account the budget constraint affect the way we should thin
 2. this maybe the case because they expect to die before taxes go up, or, more likely because they do not think that far into the future. In either case the Ricardian equivalence is likely to fail. 
 3. so it is safe to conclude that the budget deficits have an important effect on the activity, although a smaller one than thought of before the Ricardian Equivalence. 
 4. in short run, large deficits are likely to results in higher demand and to higher output. In long run, higher government debts lower the capital accumulation and as a result lowers output. 
-5. 

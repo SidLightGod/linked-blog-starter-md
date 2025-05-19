@@ -21,4 +21,4 @@
 ###### the fiscal policy approach 
 1. when the Obama administration assumed office in 2009, its first priority was to design a fiscal policy that would increase the demand and reduce the size of recession. 
 2. such a fiscal program called the American Recovery and Reinvestment act was passed in Feb 2009. 
-3. it called for 780 billion dollar in new measures, in form of tax reductions and spending increases., over 2009 and 2010. 
+3. it called for 780 billion dollar in new measures, in form of tax reductions and spending increases, over 2009 and 2010. 

@@ -38,3 +38,5 @@ Related : [[Dangers of high debt]]
 # Design of monetary policy
 related : [[design of the monetary policy]]
 
+# Inflation Targeting 
+related : [[inflation targeting]]
